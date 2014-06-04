@@ -1,6 +1,7 @@
 .books{
   margin-top: 100px;
 }
+
 .book{
   margin: 10px;
   height: 250px;
@@ -8,6 +9,7 @@
   border: solid 1px black;
   word-break: break-all;
 }
+
 .book-title {
   font-size: x-large;
   margin-bottom: 5px;
